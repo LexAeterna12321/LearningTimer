@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Calligraffitti');
+@import url('https://fonts.googleapis.com/css?family=Calligraffitti/800');
 body {
     margin: 0;
     padding: 0;
@@ -31,6 +31,7 @@ body {
     justify-content: center;
     align-items: center;
     text-align:center;
+    overflow:hidden;
     box-shadow: inset 0 0 2rem 1rem rgba(0, 0, 0, 0.9),
     0 0 2rem 1rem rgba(0, 0, 0, 0.9);
 }
